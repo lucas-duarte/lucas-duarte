@@ -31,3 +31,31 @@
 <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=lucas-duarte&count_private=true&include_all_commits=true&theme=dark&hide=contribs,prs" alt="lucas-duarte"/> 
 <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-duarte&layout=compact&theme=dark&langs_count=6"/>
 </div>
+
+## Certifications
+<details>
+  <br>
+  <div>
+     <img width="33%" src="http://lucasduarte.me/certificados/ANGULAR%20PARTE%201%20%20-%20FUNDAMENTOS.jpg"/>
+     <img width="33%" src="http://lucasduarte.me/certificados/ANGULAR%20PARTE%202%20-%20AUTENTICA%C3%87%C3%83O%2C%20FORMS%20E%20LAZY%20LOADING.jpg"/>
+     <img width="33%" src="http://lucasduarte.me/certificados/FETCH%20API%20-%20CONSUMINDO%20UMA%20API%20REST%20COM%20JAVASCRIPT.jpg"/>
+  <div>
+    
+  <div>
+   <img width="33%" src="http://lucasduarte.me/certificados/HTTP%20-%20ENTENDENDO%20A%20WEB%20POR%20BAIXO%20DOS%20PANOS.jpg"/>
+   <img width="33%" src="http://lucasduarte.me/certificados/INTRODU%C3%87%C3%83O%20AO%20SQL%20COM%20MYSQL%20-%20%20MANIPULE%20E%20CONSULTE%20DADOS.jpg"/>
+   <img width="33%" src="http://lucasduarte.me/certificados/IONIC%201%20PARTE%201%20-%20DESENVOLVIMENTO%20DE%20APLICA%C3%87%C3%95ES%20H%C3%8DBRIDAS%20MOBILE.jpg"/>
+  <div>
+    
+  <div>
+   <img width="33%" src="http://lucasduarte.me/certificados/IONIC%203%20PARTE%201%20-%20APLICA%C3%87%C3%95ES%20H%C3%8DBRIDAS%20MOBILE%20AINDA%20MAIS%20PODEROSAS.jpg"/>
+   <img width="33%" src="http://lucasduarte.me/certificados/IONIC%204%20-%20ROTAS%2C%20CICLO%20DE%20VIDA%20E%20WEB%20COMPONENTS.jpg"/>
+   <img width="33%" src="http://lucasduarte.me/certificados/JAVASCRIPT%20-%20CONHECENDO%20O%20BROWSER%20E%20PADR%C3%95ES%20DE%20PROJETO.jpg"/>
+  <div>  
+    
+  <div>
+   <img width="33%" src="http://lucasduarte.me/certificados/NODEJS%20-%20CRIE%20UMA%20API%20REST%20PADRONIZADA%20E%20ESCAL%C3%81VEL.jpg"/>
+   <img width="33%" src="http://lucasduarte.me/certificados/REST%20COM%20NODEJS%20-%20API%20COM%20EXPRESS%20E%20MYSQL.jpg"/>
+   <img width="33%" src="http://lucasduarte.me/certificados/TYPESCRIPT%20-%20PARTE%201%20EVOLUINDO%20SEU%20JAVASCRIPT.jpg"/>
+  <div> 
+</details>
