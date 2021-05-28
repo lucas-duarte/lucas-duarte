@@ -1,5 +1,5 @@
 ## Lucas Duarte
-Grading in Computer Science / Programmer
+Full stack programmer 
  <div>
   <a href="https://github.com/lucas-duarte" target="_blank">
 </div>
