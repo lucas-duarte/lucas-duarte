@@ -4,7 +4,7 @@
 - Sou formado em Analise em Desenvolvimento de Sistema e em Técnico em Informatica :man_student:
 
 ## Connect with me:
-<a href="www.linkedin.com/in/lucas-duarte-p" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-duarte-p/" target="_blank">
 <img align="center" alt="lucas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/lukas.duh/?hl=pt-br" target="_blank">
