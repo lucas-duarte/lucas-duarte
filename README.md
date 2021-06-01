@@ -33,7 +33,7 @@
 </div>
 
 ## Certifications
-<details>
+<!--<details>-->
   <br>
   <div>
      <img width="31%" src="http://lucasduarte.me/certificados/ANGULAR%20PARTE%201%20%20-%20FUNDAMENTOS.jpg"/>
@@ -58,4 +58,4 @@
    <img width="31%" src="http://lucasduarte.me/certificados/REST%20COM%20NODEJS%20-%20API%20COM%20EXPRESS%20E%20MYSQL.jpg"/>
    <img width="31%" src="http://lucasduarte.me/certificados/TYPESCRIPT%20-%20PARTE%201%20EVOLUINDO%20SEU%20JAVASCRIPT.jpg"/>
   <div> 
-</details>
+<!--</details>-->
