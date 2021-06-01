@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Lucas Duarte
-- Estou trabalhando na Starnettelecom como Programador Full Stack :computer:
-- Sou formado em Analise em Desenvolvimento de Sistema e em Técnico em Informatica :man_student:
+- I'm working at Starnettelecom as a Full Stack Programmer :computer:
+- I graduated in Analysis in System Development at Fatec and in Computer Technician at ETEC :man_student:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/lucas-duarte-p/" target="_blank">
