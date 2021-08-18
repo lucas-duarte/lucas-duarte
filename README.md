@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Lucas Duarte
-- I'm working at Starnettelecom as a Full Stack Programmer :computer:
+- I'm working at Provider It & Bussines Solutions as a Full Stack Programmer :computer:
 - I graduated in Analysis in System Development at Fatec and in Computer Technician at ETEC :man_student:
 
 ## Connect with me:
