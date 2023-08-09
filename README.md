@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/lucas-duarte-p/" target="_blank">
 <img align="center" alt="lucas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/lukas.duh/?hl=pt-br" target="_blank">
-<img align="center" alt="lucas-instagram" height="30" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" style="max-width:100%;">
-</a>
 
 ## My Skills
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
